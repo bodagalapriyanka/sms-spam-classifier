@@ -1,0 +1,61 @@
+id,label,text,source,prediction,correct
+S001,ham,Are you free after your appointment on Thursday?,AI-authored synthetic challenge,ham,True
+S002,ham,The chair by the window is free if you want to sit there.,AI-authored synthetic challenge,ham,True
+S003,ham,I made a gluten free dinner for us tonight.,AI-authored synthetic challenge,ham,True
+S004,ham,Feel free to edit the introduction before our meeting.,AI-authored synthetic challenge,ham,True
+S005,ham,There is free parking behind the library for visitors.,AI-authored synthetic challenge,ham,True
+S006,ham,I finally have a free afternoon to finish my assignment.,AI-authored synthetic challenge,ham,True
+S007,ham,Can you free up some space on the shared drive?,AI-authored synthetic challenge,ham,True
+S008,ham,The community clinic offers a free workshop on Saturday.,AI-authored synthetic challenge,spam,False
+S009,ham,Please keep the hallway free of boxes during the move.,AI-authored synthetic challenge,ham,True
+S010,ham,My subscription includes a free replacement and I requested one.,AI-authored synthetic challenge,ham,True
+S011,ham,Did our team win the volleyball match yesterday?,AI-authored synthetic challenge,ham,True
+S012,ham,I hope you win your chess game this weekend.,AI-authored synthetic challenge,ham,True
+S013,ham,Getting everyone home before the rain was a win.,AI-authored synthetic challenge,ham,True
+S014,ham,We need to win the client's trust by fixing the issue.,AI-authored synthetic challenge,ham,True
+S015,ham,Your daughter helped us win the school quiz!,AI-authored synthetic challenge,ham,True
+S016,ham,"Even if we don't win, we had a lovely time together.",AI-authored synthetic challenge,ham,True
+S017,ham,Please bring the trophy from last week's win to practice.,AI-authored synthetic challenge,spam,False
+S018,ham,Is it possible to win this board game without trading?,AI-authored synthetic challenge,ham,True
+S019,ham,We watched the final and celebrated the home team's win.,AI-authored synthetic challenge,ham,True
+S020,ham,Finishing my homework early feels like a small win today.,AI-authored synthetic challenge,ham,True
+S021,ham,Your dentist appointment is confirmed for Tuesday at ten.,AI-authored synthetic challenge,ham,True
+S022,ham,Please send me the grocery list before I leave work.,AI-authored synthetic challenge,ham,True
+S023,ham,The package you ordered is waiting at reception.,AI-authored synthetic challenge,ham,True
+S024,ham,Your requested password reset code is 482731. Do not share it.,AI-authored synthetic challenge,ham,True
+S025,ham,Mom asked whether you are coming home for dinner.,AI-authored synthetic challenge,ham,True
+S026,ham,I transferred my half of the rent as we agreed.,AI-authored synthetic challenge,ham,True
+S027,ham,The train is delayed so I'll meet you at the next station.,AI-authored synthetic challenge,ham,True
+S028,ham,Your library book is due next Monday. Renew through your account.,AI-authored synthetic challenge,ham,True
+S029,ham,Thanks for volunteering at our neighborhood cleanup yesterday.,AI-authored synthetic challenge,ham,True
+S030,ham,The report is ready for your review in the shared folder.,AI-authored synthetic challenge,ham,True
+S031,spam,You have been selected for a cash prize! Pay the release fee at claim-bonus.example now.,AI-authored synthetic challenge,spam,True
+S032,spam,WIN a luxury cruise today! Send your card details to reserve your reward.,AI-authored synthetic challenge,spam,True
+S033,spam,FREE shopping voucher waiting! Verify your bank password at gift-check.example.,AI-authored synthetic challenge,ham,False
+S034,spam,Congratulations stranger! Your number won our lottery. Transfer the tax to receive your winnings.,AI-authored synthetic challenge,spam,True
+S035,spam,Claim your reward immediately by sending us your one time bank code.,AI-authored synthetic challenge,spam,True
+S036,spam,Exclusive investment opportunity: guaranteed triple returns by tomorrow. Deposit now.,AI-authored synthetic challenge,ham,False
+S037,spam,Your parcel is held for unpaid postage. Enter card details at parcel-fee.example within one hour.,AI-authored synthetic challenge,ham,False
+S038,spam,Your bank account will close tonight. Confirm your password at banking-alert.example.,AI-authored synthetic challenge,ham,False
+S039,spam,Unpaid toll notice: avoid arrest by paying at road-payment.example immediately.,AI-authored synthetic challenge,ham,False
+S040,spam,We detected suspicious activity. Reply with your password so our security agent can unlock your account.,AI-authored synthetic challenge,spam,True
+S041,spam,Remote assistant job offered without interview! Buy your starter kit with cryptocurrency today.,AI-authored synthetic challenge,ham,False
+S042,spam,Earn thousands daily from your phone. Send a registration deposit to join our secret team.,AI-authored synthetic challenge,spam,True
+S043,spam,I am a royal adviser seeking help moving an inheritance. Send your banking details for your share.,AI-authored synthetic challenge,ham,False
+S044,spam,Your computer is infected! Call our repair agent and purchase gift cards to remove the virus.,AI-authored synthetic challenge,ham,False
+S045,spam,Government refund approved. Submit your social security number at refund-center.example now.,AI-authored synthetic challenge,ham,False
+S046,spam,You owe an urgent court fine. Pay with gift cards to prevent detention.,AI-authored synthetic challenge,ham,False
+S047,spam,Amazing weight loss pills! Buy two bottles now from our unsolicited text offer.,AI-authored synthetic challenge,spam,True
+S048,spam,Your loan is approved without any application. Pay the processing charge to release funds.,AI-authored synthetic challenge,ham,False
+S049,spam,A wealthy donor selected you for a grant. Reply with your account login to collect.,AI-authored synthetic challenge,spam,True
+S050,spam,We can erase all your debts today. Send an advance payment for guaranteed approval.,AI-authored synthetic challenge,ham,False
+S051,spam,Final warning: your streaming account expires. Update your card at renew-access.example.,AI-authored synthetic challenge,ham,False
+S052,spam,I'm your manager using a new number. Buy gift cards urgently and send me photos of the codes.,AI-authored synthetic challenge,ham,False
+S053,spam,Your wallet needs verification. Send your recovery phrase to our support desk now.,AI-authored synthetic challenge,spam,True
+S054,spam,You were randomly chosen for a free phone. Pay shipping at mobile-gift.example to collect.,AI-authored synthetic challenge,spam,True
+S055,spam,Win instant money by forwarding your payment app verification code to this number.,AI-authored synthetic challenge,spam,True
+S056,spam,Urgent tax enforcement notice: transfer crypto today to avoid prosecution.,AI-authored synthetic challenge,ham,False
+S057,spam,Private casino invitation! Deposit now for guaranteed wins and unlimited cash rewards.,AI-authored synthetic challenge,spam,True
+S058,spam,We sell university degrees without classes. Send payment now for your certificate.,AI-authored synthetic challenge,ham,False
+S059,spam,Get followers instantly! Send your social media password and payment to activate the deal.,AI-authored synthetic challenge,ham,False
+S060,spam,A stranger left you millions. Pay the document fee today to receive the inheritance.,AI-authored synthetic challenge,ham,False

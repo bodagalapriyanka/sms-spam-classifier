@@ -1,0 +1,21 @@
+{
+  "examples": 60,
+  "scores": {
+    "accuracy": 0.6666666666666666,
+    "spam_precision": 0.8571428571428571,
+    "spam_recall": 0.4,
+    "spam_f1": 0.5454545454545454
+  },
+  "confusion_matrix_ham_spam": [
+    [
+      28,
+      2
+    ],
+    [
+      18,
+      12
+    ]
+  ],
+  "overlapping_ids": [],
+  "limitation": "AI-authored synthetic challenge; not representative real-world evidence. Exact overlap check does not detect paraphrases."
+}
